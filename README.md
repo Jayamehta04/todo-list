@@ -18,8 +18,11 @@ Mark tasks as done ✅
 Filter tasks 🔍
 
 🚀 Technologies Used
+
 HTML5 – Structure of the app
+
 CSS3 – Styling and layout
+
 JavaScript – Functional logic and event handling
 
 
